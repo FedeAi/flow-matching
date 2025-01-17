@@ -1,3 +1,4 @@
+![banner](images/flow_matching_circle.png)
 # Flow Matching for Robotics
 
 This repository contains code for implementing Flow Matching to generate continuous data for robotics applications. It demonstrates how to smoothly transform noise distributions into complex target distributions, such as robot actions.
